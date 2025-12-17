@@ -38,8 +38,8 @@ This project demonstrates:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/xyn4xdev-lab/discord-status-tracker.git
-cd discord-status-bot
+git clone https://github.com/xyn4xdev-lab/status-tracker.git
+cd status-tracker
 ````
 
 2. Install dependencies:
